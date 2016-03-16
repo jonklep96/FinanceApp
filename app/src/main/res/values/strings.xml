@@ -1,0 +1,35 @@
+<resources>
+    <!-- Main Activity Start -->
+    <string name="app_name">Finance App</string>
+    <string name="main_button">Financial Ratios</string>
+    <!-- Main Activity End -->
+
+    <!-- Ratio Activity Start -->
+
+    <!-- Financial Ratios -->
+    <string-array name="asset_ratios">
+        <item>Current Ratio</item>
+        <item>Quick Ratio</item>
+        <item>Cash Ratio</item>
+        <item>Inventory Turnover</item>
+        <item>Days\' Sales in Inventory</item>
+        <item>Accounts Receivable Turnover</item>
+        <item>Average Collection Period</item>
+        <item>Accounts Payable Turnover</item>
+        <item>Average Payment Period</item>
+        <item>Fixed Asset Turnover</item>
+        <item>Sales to Working Capital</item>
+        <item>Total Asset Turnover</item>
+        <item>Capital Intensity</item>
+    </string-array>
+    <string-array name="debt_ratios">
+        <item>Debt Ratio</item>
+        <item>Times Interest Earned</item>
+        <item>Fixed-Charge Coverage</item>
+    </string-array>
+    <string-array name="equity_ratios">
+        <item>Debt-to-Equity</item>
+        <item>Equity Multiplier</item>
+    </string-array>
+    <!-- Ratio Activity End -->
+</resources>
