@@ -5,6 +5,9 @@
     <!-- Main Activity End -->
 
     <!-- Ratio Activity Start -->
+    <string name="fragment_ratio_asset_title">Asset Ratios</string>
+    <string name="fragment_ratio_debt_title">Debt Ratios</string>
+    <string name="fragment_ratio_equity_title">Equity Ratios</string>
 
     <!-- Financial Ratios -->
     <string-array name="asset_ratios">
